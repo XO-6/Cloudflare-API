@@ -3,7 +3,7 @@ plugins {
     id("maven-publish")
 }
 
-group = "studio.xo6"
+group = "studio.xo6.cloudflare"
 version = "1.0.0-SNAPSHOT"
 
 repositories {
